@@ -1,4 +1,4 @@
-package org.capacitor.quasar.app;
+package com.octalectzz.todolectzz;
 
 import com.getcapacitor.BridgeActivity;
 

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Todo App</string>
-    <string name="title_activity_main">Todo App</string>
-    <string name="package_name">org.capacitor.quasar.app</string>
-    <string name="custom_url_scheme">org.capacitor.quasar.app</string>
+    <string name="app_name">TodoLectzz</string>
+    <string name="title_activity_main">TodoLectzz</string>
+    <string name="package_name">com.octalectzz.todolectzz</string>
+    <string name="custom_url_scheme">com.octalectzz.todolectzz</string>
 </resources>

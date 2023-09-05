@@ -1,11 +1,11 @@
 {
-  "appId": "org.capacitor.quasar.app",
-  "appName": "Todo App",
+  "appId": "com.octalectzz.todolectzz",
+  "appName": "TodoLectzz",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
   "server": {
     "androidScheme": "https",
-    "url": "http://172.17.192.1:9500"
+    "url": "http://172.22.240.1:9500"
   }
 }
